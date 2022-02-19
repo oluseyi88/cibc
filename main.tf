@@ -33,3 +33,4 @@ resource "google_compute_instance" "oluseyi88" {
   }
 
   metadata_startup_script = "echo hi > /test.txt"
+  indeed this is the latest changes that are needed 
