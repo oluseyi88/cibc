@@ -36,3 +36,5 @@ resource "google_compute_instance" "oluseyi88" {
   indeed this is the latest changes that are needed 
   
   i had to add this to the changes i was observing 
+
+  i am still doing the experiment
