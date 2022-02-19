@@ -38,3 +38,6 @@ resource "google_compute_instance" "oluseyi88" {
   i had to add this to the changes i was observing 
 
   i am still doing the experiment
+
+  this is extensively for master 
+  
